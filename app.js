@@ -6,14 +6,14 @@ app.use(cors());
 const port = 3000
 var sunsetData = require('./sunsetData.json');
 getAllSunsets(sunsetData).then(() => {
-    console.log(sunsetData);
+    console.log(sunsetData.length);
 });
 
 cron.schedule('0 0 * * *', () => {    
     console.log("running task")
     //get sunset data from database
     getAllSunsets(sunsetData).then(() => {
-        console.log(sunsetData);
+        console.log(sunsetData.length);
     });
   });
 
