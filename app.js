@@ -1,6 +1,8 @@
 const express = require('express')
 var cron = require('node-cron');
+const cors = require('cors');
 const app = express()
+app.use(cors());
 const port = 3000
 var sunsetData = require('./sunsetData.json');
 getAllSunsets(sunsetData).then(() => {
