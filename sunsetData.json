@@ -16,14 +16,6 @@
         "MinuteTime": 33
     },
     {
-        "Stream": "https://www.earthcam.com/usa/arizona/grandcanyon/?cam=grandcanyon",
-        "Latitude": 36.27238977535937,
-        "Longitude": -112.33796981463627,
-        "SunsetTime": "12:34:48 AM",
-        "MinuteTime": 34,
-        "Description": "the Grand Canyon in Arizona."
-    },
-    {
         "Stream": "https://www.youtube.com/watch?v=lim5hCR59kw",
         "Latitude": 47.5976928574607,
         "Longitude": -120.66071664996907,
