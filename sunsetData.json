@@ -224,7 +224,7 @@
         "Description": "the Duoliang Train Station in Taiwan."
     },
     {
-        "Stream": "https://www.youtube.com/watch?v=nJgJG-CzV8E",
+        "Stream": "https://www.youtube.com/watch?v=0PKOQbF8i9c",
         "Latitude": -8.64806211822402,
         "Longitude": 115.1199538922926,
         "SunsetTime": "10:16:37 AM",
@@ -334,14 +334,6 @@
         "SunsetTime": "3:30:42 PM",
         "MinuteTime": 930,
         "Description": "the Poseiden Hotel in Athens, Greece."
-    },
-    {
-        "Stream": "https://www.youtube.com/watch?v=pzsKbe1wprI",
-        "Latitude": 60.60189953803932,
-        "Longitude": 7.504445736092017,
-        "SunsetTime": "3:35:12 PM",
-        "MinuteTime": 935,
-        "Description": "the train station in Finse, Norway."
     },
     {
         "Stream": "https://www.youtube.com/watch?v=l_8DrACHpwY",
@@ -506,7 +498,7 @@
     {
         "Latitude": 64.19150267,
         "Longitude": -51.67504107,
-        "Stream": "https://www.youtube.com/watch?v=HSn9ca4fHyY",
+        "Stream": "https://www.youtube.com/watch?v=MApnQlsX5AQ",
         "SunsetTime": "7:19:52 PM",
         "MinuteTime": 1159,
         "Description": "The airport at Nuuk, Greenland."
@@ -650,7 +642,7 @@
     {
         "Latitude": 39.7497255590648,
         "Longitude": -104.9782398416428,
-        "Stream": "https://www.youtube.com/watch?v=8-9LrAFMTXM",
+        "Stream": "https://www.youtube.com/watch?v=E_VpviMTH9k",
         "Description": "the Denver skyline in Colorado.",
         "SunsetTime": "11:57:28 PM",
         "MinuteTime": 1437
