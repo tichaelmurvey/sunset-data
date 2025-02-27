@@ -3,7 +3,7 @@ var cron = require('node-cron');
 const cors = require('cors');
 const app = express()
 app.use(cors());
-const port = 3000
+const port = process.env.PORT || 4000;
 var sunsetData = require('./sunsetData.json');
 getAllSunsets(sunsetData).then(() => {
     console.log(sunsetData.length);
